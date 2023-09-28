@@ -1,2 +1,1 @@
-# sortingC
-Sorting algorithms in C
+# Sorting algorithms in C
